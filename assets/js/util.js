@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (function($) {
 
 	/**
@@ -586,6 +587,8 @@
 	};
 
 =======
+=======
+>>>>>>> Stashed changes
 (function($) {
 
 	/**
@@ -1172,5 +1175,8 @@
 
 	};
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 })(jQuery);
